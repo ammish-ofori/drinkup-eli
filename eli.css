@@ -1,0 +1,39 @@
+.time {
+	color: #B18904;
+	background-color:#A9D0F5;
+	text-align: center;
+	font-family:serif;
+	font-size:30px;
+	margin:200px;
+	
+}
+
+.venue{
+	color:#3B100B;
+	background-color:#F5D0A9;
+	font-family:sans-serif;
+	font-size:30px;
+	text-align: center;
+	margin: 200px;
+	
+}
+
+.theme{
+	color: #084B8A;
+	background-color:#F5A9A9;
+	font-family:monospace;
+	font-size:25px;
+	text-align: center;
+	text-transform: ;
+	margin: 100px;
+
+	
+}
+.activities{
+	color: #074CCA;
+	background-color:#BCA9F5;
+	font-style:lucida;
+	font-size:25px;
+	text-align: center;
+	margin: 150px;
+}
